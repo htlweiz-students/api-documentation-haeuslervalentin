@@ -1,0 +1,12 @@
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/bin/Debug/net8.0/AverageCalculator.deps.json
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/bin/Debug/net8.0/AverageCalculator.dll
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/bin/Debug/net8.0/AverageCalculator.pdb
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.AssemblyInfoInputs.cache
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.AssemblyInfo.cs
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.csproj.CoreCompileInputs.cache
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.sourcelink.json
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.dll
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/refint/AverageCalculator.dll
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/AverageCalculator.pdb
+/config/workspace/api-documentation-haeuslervalentin/AverageCalculator/obj/Debug/net8.0/ref/AverageCalculator.dll
