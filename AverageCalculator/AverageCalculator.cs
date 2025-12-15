@@ -35,4 +35,9 @@ public class AverageCalculator
     {
         return values.AsReadOnly();
     }
+
+    public int count()
+    {
+        return values.Count();
+    }
 }
