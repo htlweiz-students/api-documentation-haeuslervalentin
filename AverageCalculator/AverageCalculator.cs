@@ -4,10 +4,11 @@ namespace AverageCalculator;
 
 public class AverageCalculator
 {
-    private List<double> values;
+    private readonly List<double> values;
 
     public AverageCalculator()
     {
+        
         values = new List<double>();
     }
 
@@ -23,9 +24,9 @@ public class AverageCalculator
 
     public double getAverage()
     {
-       if(values.Any()) 
+        if(!values.Any()) 
        {
-            //Eigene Exception class
+            throw new InvalidOperationException("No values present");
        }
         double avg = values.Average();
         return avg; 
