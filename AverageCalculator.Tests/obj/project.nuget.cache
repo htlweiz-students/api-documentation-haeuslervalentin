@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NRq69y4GWUf1WMO1rOixeLeAxQiPJvy3MKPn0/AWSva95GU+Pc0uSPg+JZD9APMiwc+yr2rffXFTxAXR4Tkz9w==",
+  "dgSpecHash": "2ostqyaUMIdOLo7oyPhvHlm28xtZHiMZ+Qu0rRW15QXz4oikXkly3XK2bYlkLJj/CjDPU/S51KqARJ1DNTzDMQ==",
   "success": true,
   "projectFilePath": "/config/workspace/api-documentation-haeuslervalentin/AverageCalculator.Tests/AverageCalculator.Tests.csproj",
   "expectedPackageFiles": [

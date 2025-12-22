@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AverageCalculator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0bd2da4ed7dc5231ceefee0c79d3b8b1d211587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5ad11b0fc12d67a09bf1d8aab4de9fc0dd12a98")]
 [assembly: System.Reflection.AssemblyProductAttribute("AverageCalculator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AverageCalculator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
